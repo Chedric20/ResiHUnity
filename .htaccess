@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# Make the PWA manifest recognizable to browsers during installation.
+AddType application/manifest+json .webmanifest
+
+# Browsers request this automatically. Do not route a missing favicon into PHP.
+RewriteRule ^favicon\.ico$ - [L]
+
+# Serve existing files/folders directly
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Send application routes to the application entry point
+RewriteRule ^ index.php [L,QSA]

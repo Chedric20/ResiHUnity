@@ -1,0 +1,10 @@
+{
+    "certificate_id": 41,
+    "approver_type": "Doctor",
+    "approver_user_id": 10,
+    "approver_email": "23-70380@g.batstate-u.edu.ph",
+    "token_hash": "940f8bbe010a34670783cd819c88bc02ea645f0481753b1591074dc091e37f66",
+    "status": "Pending",
+    "expires_at": "2026-09-15 16:54:51",
+    "created_at": "2026-09-13 16:54:51"
+}

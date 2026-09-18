@@ -1,0 +1,28 @@
+[14-Sep-2026 11:17:35 UTC] db.php: Could not connect to DB at host=sql106.infinityfree.com db=if0_42839743_rhu: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql106.infinityfree.com failed: No such host is known
+[14-Sep-2026 11:17:35 UTC] db.php: All configured database connection attempts failed. Last error: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql106.infinityfree.com failed: No such host is known
+[14-Sep-2026 11:17:36 UTC] db.php: Could not connect to DB at host=sql106.infinityfree.com db=if0_42839743_rhu: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql106.infinityfree.com failed: No such host is known
+[14-Sep-2026 11:17:36 UTC] db.php: All configured database connection attempts failed. Last error: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql106.infinityfree.com failed: No such host is known
+[15-Sep-2026 12:43:12 UTC] db.php: Could not connect to DB at host=sql106.infinityfree.com db=if0_42839743_rhu: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql106.infinityfree.com failed: No such host is known
+[15-Sep-2026 12:43:12 UTC] db.php: All configured database connection attempts failed. Last error: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql106.infinityfree.com failed: No such host is known
+[16-Sep-2026 13:21:12 UTC] getPortalEvents: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.events' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] getPortalBarangays: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] LandingPage stats: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] LandingPage Staff Fetch Error: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.health_workers' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] getPortalEvents: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.events' doesn't exist in engine
+[16-Sep-2026 13:21:12 UTC] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 13:21:13 UTC] getPortalBarangays: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 13:21:13 UTC] LandingPage stats: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 13:21:13 UTC] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 13:21:13 UTC] LandingPage Staff Fetch Error: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.health_workers' doesn't exist in engine
+[16-Sep-2026 13:26:46 UTC] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 13:26:46 UTC] getPortalBarangays: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 13:26:46 UTC] LandingPage stats: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 13:26:46 UTC] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 13:26:46 UTC] LandingPage Staff Fetch Error: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.health_workers' doesn't exist in engine
+[16-Sep-2026 16:58:04 Europe/Berlin] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 16:58:04 Europe/Berlin] getPortalBarangays: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 16:58:04 Europe/Berlin] LandingPage stats: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.barangays' doesn't exist in engine
+[16-Sep-2026 16:58:04 Europe/Berlin] portalSettings: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.audit_logs' doesn't exist in engine
+[16-Sep-2026 16:58:04 Europe/Berlin] LandingPage Staff Fetch Error: SQLSTATE[42S02]: Base table or view not found: 1932 Table 'if0_42839743_rhu.health_workers' doesn't exist in engine
